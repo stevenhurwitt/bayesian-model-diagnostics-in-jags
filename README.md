@@ -1,0 +1,1 @@
+# bayesian-model-diagnostics-in-jags
